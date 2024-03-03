@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Personal-Site/static/css/main.7862df96.css",
+    "main.js": "/Personal-Site/static/js/main.5cf31451.js",
+    "static/js/787.3ba5e41c.chunk.js": "/Personal-Site/static/js/787.3ba5e41c.chunk.js",
+    "static/media/ReturnCenter.png": "/Personal-Site/static/media/ReturnCenter.aab4b1f3e7c036ad0ec0.png",
+    "static/media/Avenir-Book-01.ttf": "/Personal-Site/static/media/Avenir-Book-01.ab7aa26986df653dedc1.ttf",
+    "static/media/Avenir-Medium-09.ttf": "/Personal-Site/static/media/Avenir-Medium-09.90ba4d31a83ca40b27d8.ttf",
+    "static/media/Avenir-Heavy-05.ttf": "/Personal-Site/static/media/Avenir-Heavy-05.ef8835d185e784ae3f88.ttf",
+    "static/media/Avenir-Roman-12.ttf": "/Personal-Site/static/media/Avenir-Roman-12.c0f2c1bfb99c316e4497.ttf",
+    "static/media/Avenir-Light-07.ttf": "/Personal-Site/static/media/Avenir-Light-07.d7d158a298aa946d69ad.ttf",
+    "static/media/WayfairIntegration.png": "/Personal-Site/static/media/WayfairIntegration.439722fc443461cf9c1e.png",
+    "static/media/FlowChart.png": "/Personal-Site/static/media/FlowChart.16cb52f17873167fb22d.png",
+    "static/media/Empty.png": "/Personal-Site/static/media/Empty.ba0072d433dde16fbefd.png",
+    "static/media/Valencia.ttf": "/Personal-Site/static/media/Valencia.982aa30178d00befd6f0.ttf",
+    "static/media/mail.svg": "/Personal-Site/static/media/mail.faca000c1aad5163b2d6e95ee27fc449.svg",
+    "static/media/linkedin.svg": "/Personal-Site/static/media/linkedin.88cca3a11b1215b7b9741c88430a192f.svg",
+    "index.html": "/Personal-Site/index.html",
+    "main.7862df96.css.map": "/Personal-Site/static/css/main.7862df96.css.map",
+    "main.5cf31451.js.map": "/Personal-Site/static/js/main.5cf31451.js.map",
+    "787.3ba5e41c.chunk.js.map": "/Personal-Site/static/js/787.3ba5e41c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7862df96.css",
+    "static/js/main.5cf31451.js"
+  ]
+}
