@@ -1,3 +1,6 @@
+#### This site is live at https://steven-ngo.github.io/Personal-Site/
+
+-------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
