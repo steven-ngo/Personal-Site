@@ -80,6 +80,15 @@ class ImageContent extends Component {
           />
         </ImageBox>
         <ImageBox height={boxHeight}>
+          <EmptyImages
+            boxHeight={boxHeight}
+            index={2}
+            scrollPercent={scrollPercent}
+            screenHeight={screenHeight}
+            scrollHeight={scrollHeight}
+          />
+        </ImageBox>
+        <ImageBox height={boxHeight}>
           <WayfairProjectImages
             boxHeight={boxHeight}
             index={3}

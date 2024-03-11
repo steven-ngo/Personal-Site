@@ -29,8 +29,8 @@ class App extends Component {
         <MediaQuery query="(min-device-width: 1224px)">
             <WideScreenHero />
             <WideScreenWork />
-            <WideScreenSkills />
             <Recommendation />  
+            <WideScreenSkills />
             <WideScreenContact />
         </MediaQuery>
         

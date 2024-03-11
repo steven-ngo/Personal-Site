@@ -22,10 +22,10 @@ const AboutMeTitle = styled.div`
     font-size: 180px;
   }
   @media ${device.laptopL} {
-    font-size: 200px;
+    font-size: 180px;
   }
   @media ${device.desktop} {
-    font-size: 350px;
+    font-size: 180px;
   }
 `;
 
@@ -41,11 +41,11 @@ const AboutMeDescription = styled.div`
   }
   @media ${device.laptopL} {
     transform: translateY(87%);
-    font-size: 38px;
+    font-size: 40px;
   }
   @media ${device.desktop} {
     transform: translateY(80%);
-    font-size: 70px;
+    font-size: 40px;
   }
 `;
 
@@ -83,9 +83,9 @@ class AboutMe extends Component {
       <Container>
         <AboutMeTitle scrollPercent={scrollPercent}>ABOUT ME</AboutMeTitle>
         <AboutMeDescription>
-          Passionate and dedicated software engineer with a strong foundation in back-end development.
-          Committed to delivering high-quality, scalable, and efficient software solutions.
-          Let's bring ideas to life through code.
+          I'm a curious soul with a passion for unraveling the mysteries of code. 
+          From tinkering with algorithms to crafting elegant solutions, 
+          I'm on a journey to transform my love for coding into impactful creations.
         </AboutMeDescription>
       </Container>
       

@@ -81,8 +81,8 @@ class Recommendation extends Component {
         const { scrollPercent } = this.state;
         return (
             <Container>
-                <RecTitle scrollPercent={scrollPercent}>Recommendation</RecTitle>
-                <div className="sk-ww-linkedin-recommendations" data-embed-id="164541"></div>
+                {/* <RecTitle scrollPercent={scrollPercent}>Recommendation</RecTitle>
+                <div className="sk-ww-linkedin-recommendations" data-embed-id="164541"></div> */}
             </Container>
             
 
